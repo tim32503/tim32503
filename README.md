@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Tim, a junior Ruby on Rails developer. 👋
 
+![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=tim32503&show_icons=true&theme=vue)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tim32503&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **tim32503/tim32503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
