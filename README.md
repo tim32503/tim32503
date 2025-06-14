@@ -1,4 +1,4 @@
-### Hi there, I'm Tim, a junior Ruby on Rails developer. 👋
+### Hi there, I'm Tim, a Ruby on Rails developer. 👋
 
 ![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=tim32503&show_icons=true&theme=vue)
 
